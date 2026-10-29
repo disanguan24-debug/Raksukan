@@ -1,0 +1,6 @@
+{
+  "name": "Kampoeng Raksukan Warga Opat Parungkuda",
+  "description": "Marketplace Toko Online UMKM Fashion Warga Opat Parungkuda, Kabupaten Sukabumi - Produk Fashion Warga, Karya Lokal, Peluang Global.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
